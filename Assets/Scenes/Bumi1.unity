@@ -1147,7 +1147,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.11764706, g: 0.92941177, b: 1, a: 0.53333336}
+  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.53333336}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -1200,8 +1200,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.52500916, y: -0.5}
-  m_SizeDelta: {x: 60.3, y: 217}
+  m_AnchoredPosition: {x: -0.6, y: 33.5}
+  m_SizeDelta: {x: 128.1, y: 285}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1961191791
 MonoBehaviour:
@@ -1225,7 +1225,7 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 14
-    m_FontStyle: 0
+    m_FontStyle: 3
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 40
@@ -1235,7 +1235,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: pluto is about me
+  m_Text: "~ Planet ketiga dari Matahari.\n\n~ Planet yang kelima terbesar. \n\n~
+    terdapat udara, air dan atmosfera.\n\n~ Satu-satunya planet yang mempunyai kehidupan. "
 --- !u!222 &1961191792
 CanvasRenderer:
   m_ObjectHideFlags: 0

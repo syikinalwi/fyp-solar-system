@@ -5039,8 +5039,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.52500916, y: -0.5}
-  m_SizeDelta: {x: 60.3, y: 217}
+  m_AnchoredPosition: {x: 1, y: 52.4}
+  m_SizeDelta: {x: 137.4, y: 322.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &836594314
 MonoBehaviour:
@@ -5064,7 +5064,7 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 14
-    m_FontStyle: 0
+    m_FontStyle: 3
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 40
@@ -5074,7 +5074,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: pluto is about me
+  m_Text: "~ Planet ketujuh dari Matahari.\n\n~ Planet yang ketiga besar.\n\n~ Atmosferanya
+    terdiri daripada gas hidrogen, helium dan metana (Gas metana memberikan Uranus
+    warna biru). \n\n~ Terdapat gelang di sekelilingnya. (Tidak dapat dilihat dengan
+    jelas kerana terlalu nipis dan kabur)"
 --- !u!222 &836594315
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10452,7 +10455,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.63529414, g: 0.63529414, b: 0.63529414, a: 0.53333336}
+  m_Color: {r: 0.75294125, g: 0.75294125, b: 0.75294125, a: 0.53333336}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
