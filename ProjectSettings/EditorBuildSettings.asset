@@ -6,11 +6,38 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Musytari1.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Menu 3D.unity
+    guid: fa0913115ac1d4fba8b9d10280f4b04d
   - enabled: 1
     path: Assets/Scenes/sun1.unity
     guid: 30e3181eb37742742bd1f5f8157da751
+  - enabled: 1
+    path: Assets/Scenes/utarid1.unity
+    guid: 948eb2952cde5ab448f2754a1cd1567c
+  - enabled: 1
+    path: Assets/Scenes/Zuhrah.unity
+    guid: c2e54a0f613c89e4c9c9e688123ab54f
+  - enabled: 1
+    path: Assets/Scenes/Bumi1.unity
+    guid: adf587163a202db42ab26794fb44d1ce
+  - enabled: 1
+    path: Assets/Scenes/Marikh1.unity
+    guid: 4127712da78bdcf4483715011e4f3b43
+  - enabled: 1
+    path: Assets/Scenes/Musytari1.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Zuhal1.unity
+    guid: 77eeceea8057aac498b6c20792d29c61
+  - enabled: 1
+    path: Assets/Scenes/Uranus1.unity
+    guid: 376357c3efb2c744eace4241842f8cf6
+  - enabled: 1
+    path: Assets/Scenes/Neptune1.unity
+    guid: a0038299b980b084b930c77841eb0d92
+  - enabled: 1
+    path: Assets/Scenes/Pluto1.unity
+    guid: 4a03bf7b9b7fcf647be0b09cbb8ab996
   - enabled: 1
     path: Assets/Scenes/vbtest.unity
     guid: d7d4da424aad93e43bff33d133b99670
@@ -18,12 +45,6 @@ EditorBuildSettings:
     path: Assets/Scenes/RenderTexture.unity
     guid: d5545059c6381d848ab3d612c68f2669
   - enabled: 1
-    path: Assets/Scenes/Marikh1.unity
-    guid: 4127712da78bdcf4483715011e4f3b43
-  - enabled: 1
-    path: Assets/Scenes/Zuhal1.unity
-    guid: 77eeceea8057aac498b6c20792d29c61
-  - enabled: 1
-    path: Assets/Scenes/Menu 3D.unity
-    guid: fa0913115ac1d4fba8b9d10280f4b04d
+    path: Assets/Scenes/level1.unity
+    guid: 4ce5167794662254d9886dab4f6f1b8a
   m_configObjects: {}
