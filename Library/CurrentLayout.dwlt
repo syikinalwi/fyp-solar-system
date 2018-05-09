@@ -40,8 +40,8 @@ MonoBehaviour:
     y: 0
     width: 526
     height: 619
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -70,7 +70,7 @@ MonoBehaviour:
     y: 0
     width: 1336
     height: 669
-  m_MinSize: {x: 950, y: 321}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &4
 MonoBehaviour:
@@ -115,10 +115,10 @@ MonoBehaviour:
     y: 30
     width: 1336
     height: 619
-  m_MinSize: {x: 917, y: 271}
-  m_MaxSize: {x: 22012, y: 10021}
+  m_MinSize: {x: 911, y: 271}
+  m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 9
+  controlID: 112
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,8 +157,8 @@ MonoBehaviour:
     y: 0
     width: 204
     height: 619
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -207,8 +207,8 @@ MonoBehaviour:
     y: 0
     width: 279
     height: 619
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -292,7 +292,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 8
     y: 100
-    width: 525
+    width: 524
     height: 598
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
@@ -303,8 +303,8 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -262.5
-    m_HBaseRangeMax: 262.5
+    m_HBaseRangeMin: -262
+    m_HBaseRangeMax: 262
     m_VBaseRangeMin: -290.5
     m_VBaseRangeMax: 290.5
     m_HAllowExceedBaseRangeMin: 1
@@ -315,7 +315,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoom: 0
     m_UniformScale: 1
     m_UpDirection: 1
@@ -323,25 +323,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 525
+      width: 524
       height: 581
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 262.5, y: 290.5}
+    m_Translation: {x: 262, y: 290.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -262.5
+      x: -262
       y: -290.5
-      width: 525
+      width: 524
       height: 581
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 525, y: 598}
+  m_LastWindowPixelSize: {x: 524, y: 598}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -372,9 +372,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: 0a090000
     m_LastClickedID: 0
-    m_ExpandedIDs: 28d8fcfff0fbffff00000000ae300000b83000006e3100007831000086320000e0320000
+    m_ExpandedIDs: 2e28faff7aaffafff4eeffffd6fbffff00000000663100007431000080310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -393,7 +393,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 7}
     m_SearchString: 
   m_ExpandedScenes:
-  - utarid1
+  - Bumi1
   m_CurrenRootInstanceID: 0
   m_LockTracker:
     m_IsLocked: 0
@@ -469,20 +469,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scenes
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 65
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: 65
   m_LastProjectPath: C:\Users\syikin\Documents\fyp-solar-system
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c02c0000
-    m_LastClickedID: 11456
-    m_ExpandedIDs: 000000002e2b0000782b0000e62b0000f22c0000e82d00002c2e00000e2f0000122f000000ca9a3bffffff7f
+    m_SelectedIDs: 362b0000
+    m_LastClickedID: 11062
+    m_ExpandedIDs: 00000000362b0000802b0000ee2b0000fa2c0000f02d0000342e00001a2f00001e2f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -510,7 +510,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000002e2b0000782b0000e62b0000f22c0000e82d00002c2e00000e2f0000122f0000
+    m_ExpandedIDs: 00000000362b0000802b0000ee2b0000fa2c0000f02d0000342e00001a2f00001e2f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -562,7 +562,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 1155.1785}
+    m_ScrollPosition: {x: 0, y: 1152}
     m_GridSize: 65
   m_DirectoriesAreaWidth: 203
 --- !u!114 &16
@@ -591,14 +591,14 @@ MonoBehaviour:
     height: 598
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 0
-  lastFramingTime: 3346.9070944547743
+  lastFramingTime: 1940.8590175727234
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 448.7, y: 290.5, z: 0}
+    m_Target: {x: 0, y: 1.69, z: 0.03999996}
     speed: 2
-    m_Value: {x: 448.7, y: 290.5, z: 0}
+    m_Value: {x: 0, y: 1.69, z: 0.03999996}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -618,21 +618,21 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     yGrid:
-      m_Target: 0
+      m_Target: 1
       speed: 2
-      m_Value: 0
+      m_Value: 1
     zGrid:
       m_Target: 0
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.0044764588, y: 0.10033027, z: 0.0004532893, w: 0.99495035}
+    m_Target: {x: 0.5781835, y: 0.0036732282, z: -0.002599037, w: 0.8159076}
     speed: 2
-    m_Value: {x: -0.0044764304, y: 0.10032964, z: 0.00045328646, w: 0.9949441}
+    m_Value: {x: 0.5781773, y: 0.0036731889, z: -0.002599009, w: 0.81589884}
   m_Size:
-    m_Target: 742.976
+    m_Target: 5.7208085
     speed: 2
-    m_Value: 742.976
+    m_Value: 5.7208085
   m_Ortho:
     m_Target: 1
     speed: 2

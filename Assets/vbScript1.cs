@@ -5,13 +5,13 @@ using Vuforia;
 public class vbScript1 : MonoBehaviour, IVirtualButtonEventHandler
 {
 	private GameObject vbButtonObject;
-	public GameObject vbmush;
+	public GameObject Play;
 
 
 	void Start () {
-		vbButtonObject = GameObject.Find("vbmush");
+		vbButtonObject = GameObject.Find("Play");
 		vbButtonObject.GetComponent<VirtualButtonBehaviour>().RegisterEventHandler(this);
-		vbmush = GameObject.Find("vbmush");
+		Play = GameObject.Find("Play");
 		
 	}
 	
@@ -19,13 +19,13 @@ public class vbScript1 : MonoBehaviour, IVirtualButtonEventHandler
 	public void OnButtonPressed (VirtualButtonBehaviour vb) 
 	{
 		Debug.Log("Play");
-		vbmush.GetComponent<AudioSource>().Play();
+		Play.GetComponent<AudioSource>().Play();
 		
 	}
 	
 	public void OnButtonReleased (VirtualButtonBehaviour vb)
 	{
 		Debug.Log("Stop");
-		vbmush.GetComponent<AudioSource>().Stop();
+		Play.GetComponent<AudioSource>().Stop();
 	}
 }
