@@ -13,7 +13,6 @@ public class OrbitMotion : MonoBehaviour {
 	public bool orbitActive = true;
 	
 	
-	// Use this for initialization
 	void Start () {
 		if (orbitingObject == null){
 			orbitActive = false;
