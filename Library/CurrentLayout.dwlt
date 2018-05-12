@@ -372,9 +372,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: c2eda4ffbafca8ffccfca8ffcefca8ffd0fca8fff2fca8ffb2fda8fff2d3bfff94b4ceff48b8ceff18c7ceff0ea6fcffb0b3fcff0e7bfdffa481fdff64f0fdff20f9fdff5a0afeffe210feff503afeffaa40feffa054feff5458feff3064feffc0a0feffc2a3feffb2abfeff16cbfeff8cd0feff7ce5feffa6ecfeffeef0feff1cf4feffc82dffffca2dffff2631ffff984affff5052fffff0fbffff000000000c310000d0320000e0320000d4340000e2340000f2340000b0370000f4370000783800002a3a00007a3a0000083b0000c63c0000da3c0000e83c0000b63d0000ae3f0000cc3f0000684000007a420000c24200004e430000ea450000f64500004e4600007a460000004900001e490000ca490000d24d0000284e0000ba4e0000685100009a5100002c52000042520000505200007452000084520000a2520000d452000052530000228100004081000098810000f0810000fe8100000c8200003c820000d8820000fa82000008b400002ab400003ab400004cb4000062b4000072b4000090b400009eb40000e4b4000024b5000036b5000078b5000084b5000092b50000
+    m_SelectedIDs: f4300000
+    m_LastClickedID: 12532
+    m_ExpandedIDs: f0fbffff00000000f430000098310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -469,34 +469,34 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scenes
+    - Assets/Resources
   m_ViewMode: 1
   m_StartGridSize: 65
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Resources
   m_LastFoldersGridSize: 65
   m_LastProjectPath: C:\Users\syikin\Documents\fyp-solar-system
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c62c0000
-    m_LastClickedID: 11462
-    m_ExpandedIDs: 00000000342b00007e2b0000ec2b00003a2e00001c2f000000ca9a3bffffff7f
+    m_SelectedIDs: 662f0000
+    m_LastClickedID: 12134
+    m_ExpandedIDs: 00000000342b00007e2b0000ec2b00003a2e00001c2f0000202f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Shaders
-      m_OriginalName: Shaders
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 11338
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
@@ -510,7 +510,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000342b00007e2b0000ec2b0000fa2c0000f22d00003a2e00001c2f0000202f0000
+    m_ExpandedIDs: 00000000342b00007e2b0000ec2b00003a2e00001c2f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -562,7 +562,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 247}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 65
   m_DirectoriesAreaWidth: 110
 --- !u!114 &16
@@ -596,9 +596,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.80619884, y: -0.020947933, z: 0.44817019}
+    m_Target: {x: -0.15276471, y: 0.15341836, z: 0.46181828}
     speed: 2
-    m_Value: {x: -0.80619884, y: -0.020947933, z: 0.44817019}
+    m_Value: {x: -0.15276471, y: 0.15341836, z: 0.46181828}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -626,13 +626,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: 0.70710677, y: 0, z: 0, w: 0.70710677}
+    m_Value: {x: -0, y: -0, z: 0, w: -0.99999994}
   m_Size:
-    m_Target: 1.9662173
+    m_Target: 0.8525571
     speed: 2
-    m_Value: 1.9662173
+    m_Value: 0.8525571
   m_Ortho:
     m_Target: 0
     speed: 2
