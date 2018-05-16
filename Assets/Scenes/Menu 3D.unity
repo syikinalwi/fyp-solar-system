@@ -172,7 +172,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 92003358}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 909674357}
@@ -180,8 +180,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -121.5}
-  m_SizeDelta: {x: 119.51, y: 208.1}
+  m_AnchoredPosition: {x: -5.7, y: -129.5}
+  m_SizeDelta: {x: 125.2, y: 241.3}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &92003360
 MonoBehaviour:
@@ -204,10 +204,10 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 7cb2912222469634ba17a77055919ea8, type: 3}
-    m_FontSize: 25
+    m_FontSize: 20
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 2
     m_MaxSize: 40
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -215,7 +215,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Sila ikut Arahan ini..hahaha
+  m_Text: Halakan kamera pada kad matahari. Sebaik sahaja Matahari dan Planet-planet
+    muncul dan mengorbit matahari, perlahan-lahan padankan pada ruangan putih diatas
+    kad Sistem Suria. Lingkaran putih akan muncul diatas kad sistem suria. Planet-planet
+    tersebut akan mengorbit mengikuti lingkaran putih itu.
 --- !u!222 &92003361
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -386,7 +389,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 322536639}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 945309895}
@@ -394,8 +397,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -121.5}
-  m_SizeDelta: {x: 119.51, y: 208.1}
+  m_AnchoredPosition: {x: -0, y: -127}
+  m_SizeDelta: {x: 119.5, y: 219.2}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &322536641
 MonoBehaviour:
@@ -418,10 +421,10 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 7cb2912222469634ba17a77055919ea8, type: 3}
-    m_FontSize: 25
+    m_FontSize: 20
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 2
     m_MaxSize: 40
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -429,7 +432,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Sila ikut Arahan ini..hahaha
+  m_Text: 'Halakan kamera telefon dan imbas kad planet ke arah kad yg diberi. Sebaik
+    sahaja memilih jenis planet pada Aras 1, maklumat tentang planet akan keluar secara
+    automatik. Planet yang berjaya diimbas akan muncul didalam skrin telefon. Planet
+    akan berputar sebaik sahaja kad berjaya diimbas.  '
 --- !u!222 &322536642
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1405,6 +1411,10 @@ Prefab:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
       value: 
       objectReference: {fileID: 2013499411}
+    - target: {fileID: 100004, guid: 05a81c3d5091440058129444d28322f3, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 05a81c3d5091440058129444d28322f3, type: 2}
   m_IsPrefabParent: 0
@@ -1802,7 +1812,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 945309894}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 322536640}
@@ -1811,8 +1821,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: 3.9500122}
-  m_SizeDelta: {x: -80, y: 704.1001}
+  m_AnchoredPosition: {x: 5, y: -2.399994}
+  m_SizeDelta: {x: -70.1, y: 736.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &951390923
 Prefab:
@@ -2497,7 +2507,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1235861151
 RectTransform:
   m_ObjectHideFlags: 0
